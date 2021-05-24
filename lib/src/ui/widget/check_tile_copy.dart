@@ -3,8 +3,8 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart' hide Checkbox, CheckboxListTile;
+import 'package:flutter/material.dart';
 
-import 'package:photo/src/ui/widget/check_box_copy.dart';
 
 /// A [ListTile] with a [Checkbox]. In other words, a checkbox with a label.
 ///
